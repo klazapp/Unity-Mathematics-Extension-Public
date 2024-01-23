@@ -12,5 +12,14 @@
   "category": "Utility",
   "dependencies": {
     "com.unity.mathematics": "1.2.6"
-  }
+  },
+  "author": {
+      "name": "Klazapp",
+      "email": "klazapp@klazapp.com",
+      "url": "https://www.klazapp.com"
+    },
+    "documentationUrl": "https://github.com/klazapp/Unity-Logger-Public",
+    "changelogUrl": "https://github.com/klazapp/Unity-Logger-Public",
+    "licensesUrl": "https://github.com/klazapp/Unity-Logger-Public"
+
 }
